@@ -30,7 +30,8 @@
     "streetsidesoftware.code-spell-checker",
     "alistairchristie.open-reusables",
     "Vue.vscode-typescript-vue-plugin",
-    "Vue.volar"
+    "Vue.volar",
+    "vscode-icons-team.vscode-icons"
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
