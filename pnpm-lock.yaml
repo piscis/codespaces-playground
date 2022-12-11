@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  traverse: ^0.6.7
+
+devDependencies:
+  traverse: 0.6.7
+
+packages:
+
+  /traverse/0.6.7:
+    resolution: {integrity: sha512-/y956gpUo9ZNCb99YjxG7OaslxZWHfCHAUUfshwqOXmxUIvqLjVO581BT+gM59+QV9tFe6/CGG53tsA1Y7RSdg==}
+    dev: true
